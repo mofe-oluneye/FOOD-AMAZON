@@ -1,0 +1,153 @@
+
+
+
+.row {
+    margin-top: 0px;
+    margin-left: -60px;
+    margin-right: 0px;
+}
+ .sign-img {
+    max-width: 100%;
+    height:auto;
+} 
+
+.specta {
+  
+    min-height: 60vh;
+}
+
+.specta2 {
+    width: 100%;
+}
+
+
+.form-sec{
+    margin-top: 70px;
+}
+ 
+
+.sign-up-header h1{
+color: #00A859;
+}
+
+.sign-up-header p{
+color: #7C797A;
+}
+
+.sign-up-header p a {
+color: #F58634;
+
+}
+
+form {
+    width: 70%;
+   
+    margin: 5% auto;
+    background: transparent;
+    padding: 35px;
+    border-radius: 5px;
+}
+
+input, input:focus {
+
+    outline: none !important;
+    /* box-shadow: none !important; */
+    padding: 8px;
+    border: 1px solid  #ffffff28 ; 
+    border-radius: 7px;
+    background-color: #F4F5F6;
+    width: 100%;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+::placeholder {
+.inter-uniquifier {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+    /* color: rgba(0, 0, 0, 0.3); */
+color: #7C797A;
+    font-size: 14px;
+}
+}
+
+
+.button-blue {
+    width: 100%;
+    margin-top: 50px;
+    background-color: #00A859;
+    color: #ffffff;
+    border-radius: 10px;
+    outline: none;
+    box-shadow: none;
+    padding: 10px;
+    border: none;
+    .inter-uniquifier {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+    color: rgba(0, 0, 0, 0.3);
+    font-size: 14px;
+}
+}
+
+
+.sign-up-header{
+    margin-bottom: -50px;
+    margin-left: 130px;
+}
+
+.form-check-input{
+    margin-left: -208px;
+}
+
+    .check-text{
+        margin-left: 31px;
+        margin-top: -2px;
+    }
+
+@media screen and (max-width: 650px) {
+    
+    .sign-img {
+        height:605px;
+        width: 100%;
+    }
+
+    .specta {
+        display: none;
+    }
+
+    .specta2 {
+        height: 100vh;
+    }
+
+    form {
+        width: 100%;
+    }
+
+    .form-sec{
+        margin-left: 50px;
+        /* margin-top: -500; */
+    }
+
+    .sign-up-header{
+        margin-left: 35px;
+    }
+
+    .button-blue{
+        width: 100%;
+        height: auto;
+    }
+    
+    .form-check{
+        margin-left: 87px;
+        margin-top: 8px;
+    }
+
+    .check-text{
+        margin-left: 30px;
+    }
+
+}
