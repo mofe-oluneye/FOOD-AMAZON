@@ -22,5 +22,60 @@ function signUp(event){
         })       
          spinItem.style.display = "none";
         return;
-}  
-}
+          }
+           else {
+        // convert to form data
+        const signData = new FormData();
+        signData.append("name", getName);
+        signData.append("email", getEmail);
+        signData.append("phone", getPhone);
+        signData.append("password", getPassword);     
+           // request method
+        const signMethod = {
+            method: 'POST',
+            body: signData
+        }        
+        // endpoint
+        const url = "https://cyrilyoruba.juadebgabriel.com/yorubalearning/api/register_admin";    
+            // callimg the api
+        fetch(url, signMethod)
+        .then(response => response.json())
+        .then(result => {
+            console.log(result)        
+
+                if (result.status === "success") {
+                Swal.fire({
+                    icon: 'success',
+                    text: `${result.message}`,
+                    confirmButtonColor: "#2D85DE"
+
+                })         
+                       setTimeout(() => {
+                    location.href = "index.html"
+                }, 4000)
+            }
+
+            else {
+                Swal.fire({
+                    icon: 'info',
+                    text: `${result.message}`,
+                    confirmButtonColor: "#2D85DE"
+
+                })
+                spinItem.style.display = "none";
+            }        })
+        .catch(error => {
+            console.log('error', error)
+            Swal.fire({
+                icon: 'info',
+                text: `${result.message}`,
+                confirmButtonColor: "#2D85DE"
+
+            })
+            spinItem.style.display = "none";
+        });
+    }
+} 
+
+    
+
