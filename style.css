@@ -102,9 +102,9 @@ input, input:focus {
         width: 100%;
     }
 
-    .specta {
+    /* .specta {
         display: none;
-    }
+    } */
 
     .specta2 {
         height: 100vh;
