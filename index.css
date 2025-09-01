@@ -69,3 +69,62 @@ nav ul li a {
     background:#fff;
     color:  #00A859;
 }
+
+
+.hero-left{
+    margin-left: 100px;
+    margin-top: 42px;
+}
+
+.hero-left p{
+   font-family: Inter, sans-serif;
+font-weight: 550;
+font-size: 13px;
+}
+
+.hero-left h1{
+    color: #00A859;
+    font-family: MD Nichrome Test, sans-serif;
+font-weight: 700;
+font-size: 50px;
+}
+
+.hero-left h1 span{
+    color:#F58634;
+    font-family: MD Nichrome Test, sans-serif;
+font-weight: 700;
+font-size: 50px;
+}
+
+
+.btn-log{
+    outline: none;
+    box-shadow: none;
+      border: 1px solid  #F58634;
+    background:#F58634;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+   
+}
+
+
+.btn-log:hover {
+    background:#F58634;
+    color:  #fff;
+}
+
+.hero-left button{
+    margin-top: 43px;
+}
+
+.hero-img img{
+    margin-top: 50px;
+    margin-left: -100;
+}
+
+.hero-right img{
+    margin-top: -500px;
+    margin-left: 577px;
+}
