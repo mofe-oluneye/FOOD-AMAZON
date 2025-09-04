@@ -23,7 +23,7 @@ nav ul li a {
     text-decoration: none;
     color: #000000;
  margin-right: 70px; 
- font-family: Inter;
+ font-family: "Inter", sans-serif;
 }
 
 .nav-img-1 img{
@@ -77,21 +77,21 @@ nav ul li a {
 }
 
 .hero-left p{
-   font-family: Inter, sans-serif;
+   font-family: "Inter", sans-serif;
 font-weight: 550;
 font-size: 13px;
 }
 
 .hero-left h1{
     color: #00A859;
-    font-family: MD Nichrome Test, sans-serif;
+    font-family: "MD Nichrome Test", sans-serif;
 font-weight: 700;
 font-size: 50px;
 }
 
 .hero-left h1 span{
     color:#F58634;
-    font-family: MD Nichrome Test, sans-serif;
+    font-family: "MD Nichrome Test", sans-serif;
 font-weight: 700;
 font-size: 50px;
 }
@@ -105,8 +105,7 @@ font-size: 50px;
     color: #ffffff;
     padding: 10px 20px;
     border-radius: 6px;
-    cursor: pointer;
-   
+    cursor: pointer;  
 }
 
 
@@ -149,14 +148,14 @@ width: 100%;
 .sec-1 h6{
 margin-top: -60px;
 margin-left: 62px;
-font-family: MD Nichrome Test, sans-serif;
+font-family: "MD Nichrome Test", sans-serif;
 font-weight: 550;
 color: #fff;
 }
 .sec-1 p{
 margin-top: -6px;
 margin-left: 62px;
-font-family: Inter, sans-serif;
+font-family: "Inter", sans-serif;
 font-weight: 600;
 font-size: 14px;
 color: #fff;
@@ -170,14 +169,14 @@ color: #fff;
 .sec-2 h6{
 margin-top: -60px;
 margin-left: 62px;
-font-family: MD Nichrome Test, sans-serif;
+font-family: "MD Nichrome Test", sans-serif;
 font-weight: 550;
 color: #fff;
 }
 .sec-2 p{
 margin-top: -6px;
 margin-left: 62px;
-font-family: Inter, sans-serif;
+font-family: "Inter", sans-serif;
 font-weight: 600;
 font-size: 14px;
 color: #fff;
@@ -191,14 +190,14 @@ color: #fff;
 .sec-3 h6{
 margin-top: -60px;
 margin-left: 62px;
-font-family: MD Nichrome Test, sans-serif;
+font-family: "MD Nichrome Test", sans-serif;
 font-weight: 550;
 color: #fff;
 }
 .sec-3 p{
 margin-top: -6px;
 margin-left: 62px;
-font-family: Inter, sans-serif;
+font-family: "Inter", sans-serif;
 font-weight: 600;
 font-size: 14px;
 color: #fff;
@@ -291,7 +290,7 @@ margin-left: 445px;
 
 .content-header-left h1{
     color: #000000;
-    font-family: MD Nichrome Test, sans-serif;
+    font-family: "MD Nichrome Test", sans-serif;
 font-weight: 700;
 /* font-style: Bold; */
 font-size: 64px;
@@ -303,7 +302,7 @@ letter-spacing: 0%;
 
 .content-header-left p{
     color: #4D4D4D;
-  font-family: Inter;
+  font-family: "Inter",sans-serif;
 font-weight: 400;
 font-style: Regular;
 font-size: 18px;
@@ -345,7 +344,7 @@ letter-spacing: 0%;
 
 .test-head-1 small{
     margin-left: 100px;
-    font-family: Inter, sans-serif;
+    font-family: "Inter", sans-serif;
 font-weight: 400;
 font-style: Regular;
 font-size: 13px;
@@ -360,7 +359,7 @@ color:#4D4D4D;
 
 .test-body-1 p{
     margin-left: 100px;
-    font-family: MD Nichrome Test, sans-serif;
+    font-family: "MD Nichrome Test", sans-serif;
 font-weight: 700;
 font-size: 20px;
 margin-top: 4px;
@@ -377,7 +376,7 @@ margin-top: 4px;
 .test-footer-1 small{
     margin-left: 5px;
     color:#4D4D4D;
-    font-family: Inter, sans-serif;
+    font-family: "Inter", sans-serif;
 font-weight: 400;
 font-size: 16px;
 
@@ -386,7 +385,7 @@ font-size: 16px;
 
 .test-footer-1 span{
     margin-left: 239px;
-    font-family: Inter, sans-serif;
+    font-family: "Inter", sans-serif;
 font-weight: 600;
 font-size: 18px;
     /* margin-top: 5px; */
@@ -427,7 +426,7 @@ font-size: 18px;
 
 .test-head-2 small{
     margin-left: 100px;
-    font-family: Inter, sans-serif;
+    font-family: "Inter", sans-serif;
 font-weight: 400;
 font-style: Regular;
 font-size: 13px;
@@ -442,7 +441,7 @@ color:#4D4D4D;
 
 .test-body-2 p{
     margin-left: 100px;
-    font-family: MD Nichrome Test, sans-serif;
+    font-family: "MD Nichrome Test", sans-serif;
 font-weight: 700;
 font-size: 20px;
 margin-top: 4px;
@@ -459,7 +458,7 @@ margin-top: 4px;
 .test-footer-2 small{
     margin-left: 5px;
     color:#4D4D4D;
-    font-family: Inter, sans-serif;
+    font-family: "Inter", sans-serif;
 font-weight: 400;
 font-size: 16px;
 
@@ -468,7 +467,7 @@ font-size: 16px;
 
 .test-footer-2 span{
     margin-left: 239px;
-    font-family: Inter, sans-serif;
+    font-family: "Inter", sans-serif;
 font-weight: 600;
 font-size: 18px;
     /* margin-top: 5px; */
@@ -509,7 +508,7 @@ font-size: 18px;
 
 .test-head-3 small{
     margin-left: 100px;
-    font-family: Inter, sans-serif;
+    font-family: "Inter", sans-serif;
 font-weight: 400;
 font-style: Regular;
 font-size: 13px;
@@ -524,7 +523,7 @@ color:#4D4D4D;
 
 .test-body-3 p{
     margin-left: 100px;
-    font-family: MD Nichrome Test, sans-serif;
+    font-family: "MD Nichrome Test", sans-serif;
 font-weight: 700;
 font-size: 20px;
 margin-top: 4px;
@@ -541,7 +540,7 @@ margin-top: 4px;
 .test-footer-3 small{
     margin-left: 5px;
     color:#4D4D4D;
-    font-family: Inter, sans-serif;
+    font-family: "Inter", sans-serif;
 font-weight: 400;
 font-size: 16px;
 
@@ -550,10 +549,15 @@ font-size: 16px;
 
 .test-footer-3 span{
     margin-left: 239px;
-    font-family: Inter, sans-serif;
+    font-family: "Inter", sans-serif;
 font-weight: 600;
 font-size: 18px;
     /* margin-top: 5px; */
+}
+
+.feature-left{
+    margin-top: 175px;
+    margin-left: 84px;
 }
 
 .btn-moyo{
@@ -578,4 +582,92 @@ font-size: 18px;
 .slider img{
     margin-left: 100px;
     margin-top: 40px;
+}
+
+.btn-moyin{
+    outline: none;
+    box-shadow: none;
+      border: 1px solid  #00A859;
+    background:#00A859;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 30px;
+    cursor: pointer;
+   margin-left: 200px;
+   margin-top: -50px;
+}
+
+
+.btn-moyin:hover {
+    background:#fff;
+    color:  #00A859;
+}
+
+.feature-right{
+    margin-left: 680px;
+    margin-top: -460px;
+}
+
+.feature-right h1{
+    font-family: "MD Nichrome Test", sans-serif;
+font-size: 64px;
+color: #07AA07;
+}
+
+.feature-right h1 span{
+    color: #F58634;
+    font-family: "MD Nichrome Test", sans-serif;
+font-weight: 700;
+font-size: 64px;
+}
+
+.feature-right p{
+color: #0F0B0B;
+  font-family: "Inter", sans-serif;
+  /* font-optical-sizing: auto; */
+  /* font-weight: 700; */
+  /* font-style: normal; */
+}
+
+/* .feature-right img{
+    margin-left: 20px;
+    margin-top: -30px;
+} */
+
+.feature-right small{
+    font-family: "Inter", sans-serif;
+}
+
+.f-footer p{
+  font-family: "Calligraffitti", cursive;
+  color: #0F0B0B;
+  margin-bottom: 3px;
+}
+
+.f-footer small{
+ color: #4D4D4D;
+    font-family: "Inter", sans-serif;
+}
+
+.fourth-sec{
+    background: #EFFFE5;
+    border: 1px solid #EFFFE5;
+}
+
+.fourth-sec-header{
+    text-align: center;
+}
+
+.fourth-sec-header h1{
+font-family: "MD Nichrome Test", sans-serif;
+font-weight: 700;
+font-size: 96px;
+}
+
+.fourth-sec-header p{
+    margin-top: -50px;
+      font-family: "Inter", sans-serif;
+font-weight: 400;
+font-size: 16px;
+color: #0F0B0B;
 }
