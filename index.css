@@ -73,7 +73,7 @@ nav ul li a {
 
 .hero-left{
     margin-left: 100px;
-    margin-top: 42px;
+    margin-top: 136px;
 }
 
 .hero-left p{
@@ -118,14 +118,27 @@ font-size: 50px;
     margin-top: 43px;
 }
 
+.hero-img{
+    margin-top: -128px;
+}
+
 .hero-img img{
-    margin-top: -412px;
+    /* margin-top: -412px; */
     padding-left: 100px;
 }
 
+.hero-right{
+margin-top: -421px;
+}
+
 .hero-right img{
-    margin-top: -863px;
+    /* margin-top: -863px; */
     margin-left: 577px;
+    opacity: 99%;
+}
+
+.curve{
+   margin-top: -141px; 
 }
 
 .curve-1  img{
@@ -141,7 +154,7 @@ width: 100%;
 }
 
 .under-hero-right{
-   margin-top: -174px;
+   margin-top: -13px;
     margin-left: 634px;
 }
 
@@ -204,7 +217,7 @@ color: #fff;
 }
 
 .veg{
-    /* background: image 40 */
+    /* background: image 40; */
 background: url(./assets/image.png) no-repeat center center / cover;
     width: 100%;
     position: relative;
@@ -652,6 +665,7 @@ color: #0F0B0B;
 .fourth-sec{
     background: #EFFFE5;
     border: 1px solid #EFFFE5;
+    padding-bottom: 50px;
 }
 
 .fourth-sec-header{
@@ -681,7 +695,9 @@ color: #0F0B0B;
     text-align: center;
     padding-bottom: 23px;
     border-radius: 7px;
-    
+    margin-left: 100px;
+    margin-top: 100px;
+    padding-top: 10px;   
 }
 
 .fourth-sec-body-1 h3{
@@ -720,4 +736,139 @@ font-size: 18px;
 font-family: "Inter", sans-serif;
   font-weight:500;
   font-style: normal;
+}
+
+.fourth-sec-body-2{
+    border: 1px solid #FFFFFF;
+    background: #fff;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 19%;
+    text-align: center;
+    padding-bottom: 23px;
+    border-radius: 7px;
+    margin-left: 393px;
+    margin-top: -422px;
+    padding-top: 10px;   
+}
+
+.fourth-sec-body-2 h3{
+    font-family: "MD Nichrome Test", sans-serif;
+font-size: 18px;
+}
+
+.fourth-sec-body-2 p{
+  font-family: "Inter", sans-serif;
+  font-weight:500;
+  font-style: normal;
+  color: #4D4D4D;
+}
+
+
+.btn-imad{
+    outline: none;
+    box-shadow: none;
+      border: 2px solid  #00A859;
+    background:#fff;
+    color: #00A859;
+    padding: 10px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+   /* margin-left: 200px; */
+   margin-top: 7px;
+}
+
+
+.btn-imad:hover{
+    background:#00A859;
+    color:  #fff;
+}
+
+.fourth-sec-body-2 button{
+font-family: "Inter", sans-serif;
+  font-weight:500;
+  font-style: normal;
+}
+
+.fourth-sec-body-3{
+    border: 1px solid #FFFFFF;
+    background: #fff;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 19%;
+    text-align: center;
+    padding-bottom: 23px;
+    border-radius: 7px;
+    margin-left: 685px;
+    margin-top: -422px;
+    padding-top: 10px;   
+}
+
+.fourth-sec-body-3 h3{
+    font-family: "MD Nichrome Test", sans-serif;
+font-size: 18px;
+}
+
+.fourth-sec-body-3 p{
+  font-family: "Inter", sans-serif;
+  font-weight:500;
+  font-style: normal;
+  color: #4D4D4D;
+}
+
+
+.btn-ima{
+    outline: none;
+    box-shadow: none;
+      border: 2px solid  #00A859;
+    background:#fff;
+    color: #00A859;
+    padding: 10px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+   /* margin-left: 200px; */
+   margin-top: 7px;
+}
+
+
+.btn-ima:hover{
+    background:#00A859;
+    color:  #fff;
+}
+
+.fourth-sec-body-3 button{
+font-family: "Inter", sans-serif;
+  font-weight:500;
+  font-style: normal;
+}
+
+.fourth-sec-body-4{
+    /* background:  url(./assets/image\ 401.png)  no-repeat center center / cover; */
+    margin-top: -422px;
+ width: 19%;
+    margin-left: 981px;
+padding-top: 100px;
+    background-color: #00A859;
+    height: 16px;
+    padding-bottom: 308px;
+
+}
+
+.fourth-sec-body-4 img{
+    margin-top: -100px;
+}
+
+.btn-im{
+    outline: none;
+    box-shadow: none;
+      border: 1px solid  #fff;
+    background:transparent;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+
+.btn-im:hover{
+    background:#00A859;
+    color:  #fff;
 }
