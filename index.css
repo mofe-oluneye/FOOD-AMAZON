@@ -693,7 +693,7 @@ color: #0F0B0B;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     width: 19%;
     text-align: center;
-    padding-bottom: 23px;
+    padding-bottom: 12px;
     border-radius: 7px;
     margin-left: 100px;
     margin-top: 100px;
@@ -744,7 +744,7 @@ font-family: "Inter", sans-serif;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     width: 19%;
     text-align: center;
-    padding-bottom: 23px;
+    padding-bottom: 12px;
     border-radius: 7px;
     margin-left: 393px;
     margin-top: -422px;
@@ -795,7 +795,7 @@ font-family: "Inter", sans-serif;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     width: 19%;
     text-align: center;
-    padding-bottom: 23px;
+    padding-bottom: 12px;
     border-radius: 7px;
     margin-left: 685px;
     margin-top: -422px;
@@ -853,7 +853,20 @@ padding-top: 100px;
 }
 
 .fourth-sec-body-4 img{
-    margin-top: -100px;
+     margin-top: -127px;
+}
+
+.fourth-sec-body-4 h3{
+margin-top: -225px;
+text-align: center;
+}
+
+.fourth-sec-body-4 h4{
+    text-align: center;
+}
+
+.dorms{
+    text-align: center;
 }
 
 .btn-im{
@@ -871,4 +884,346 @@ padding-top: 100px;
 .btn-im:hover{
     background:#00A859;
     color:  #fff;
+}
+
+.fourth-sec-body-4 img{
+     margin-top: -127px;
+}
+
+
+
+
+
+.contents{
+    border: 1px solid  #fff;
+    background: #fff;
+    border-radius: 30px 30px 0 0;
+    margin-top: -45px;
+    opacity: 99%;
+}
+
+.contents-header-left{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.contents-header-left h1{
+    color: #000000;
+    font-family: "MD Nichrome Test", sans-serif;
+font-weight: 700;
+/* font-style: Bold; */
+font-size: 64px;
+line-height: 100%;
+letter-spacing: 0%;
+/* margin-top: 40px; */
+
+}
+
+.contents-header-left p{
+    color: #4D4D4D;
+  font-family: "Inter",sans-serif;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+letter-spacing: 0%;
+/* margin-top: 30px; */
+}
+
+.contents-header-right{
+    margin-top: -36px;
+}
+
+.btn-docs{
+    outline: none;
+    box-shadow: none;
+      border: 1px solid  #00A859;
+    background:#fff;
+    color: #00A859;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+   margin-left: 1065px;
+   margin-top: -50px;
+}
+
+
+.btn-docs:hover {
+    background:#00A859;
+    color:  #fff;
+}
+
+.conts-img-1{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.tests-head-1{
+    margin-top: 15px;
+}
+
+.tests-head-1 small{
+    margin-left: 100px;
+    font-family: "Inter", sans-serif;
+font-weight: 400;
+font-style: Regular;
+font-size: 13px;
+line-height: 24px;
+letter-spacing: 0%;
+color:#4D4D4D;
+}
+
+.tests-head-1 img{
+     margin-left: 255px;
+}
+
+.tests-body-1 p{
+    margin-left: 100px;
+    font-family: "MD Nichrome Test", sans-serif;
+font-weight: 700;
+font-size: 20px;
+margin-top: 4px;
+}
+
+.tests-footer-1{
+    margin-top: -15px;
+}
+
+.tests-footer-1 img{
+   margin-left: 100px;
+}
+
+.tests-footer-1 small{
+    margin-left: 5px;
+    color:#4D4D4D;
+    font-family: "Inter", sans-serif;
+font-weight: 400;
+font-size: 16px;
+
+    /* margin-top: 5px; */
+}
+
+.tests-footer-1 span{
+    margin-left: 239px;
+    font-family: "Inter", sans-serif;
+font-weight: 600;
+font-size: 18px;
+    /* margin-top: 5px; */
+}
+
+.btn-mes{
+    outline: none;
+    box-shadow: none;
+      border: 1px solid  #00A859;
+    background:#fff;
+    color: #00A859;
+    padding: 11px 153px;
+    border-radius: 3px;
+    cursor: pointer;
+   margin-left: 100px;
+   margin-top: 20px;
+}
+
+
+.btn-mes:hover {
+    background:#00A859;
+    color:  #fff;
+}
+
+.contents-body-2{
+    margin-left: 405px;
+    margin-top: -521px;
+}
+
+.conts-img-2{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.tests-head-2{
+    margin-top: 15px;
+}
+
+.tests-head-2 small{
+    margin-left: 100px;
+    font-family: "Inter", sans-serif;
+font-weight: 400;
+font-style: Regular;
+font-size: 13px;
+line-height: 24px;
+letter-spacing: 0%;
+color:#4D4D4D;
+}
+
+.tests-head-2 img{
+     margin-left: 255px;
+}
+
+.tests-body-2 p{
+    margin-left: 100px;
+    font-family: "MD Nichrome Test", sans-serif;
+font-weight: 700;
+font-size: 20px;
+margin-top: 4px;
+}
+
+.tests-footer-2{
+    margin-top: -15px;
+}
+
+.tests-footer-2 img{
+   margin-left: 100px;
+}
+
+.tests-footer-2 small{
+    margin-left: 5px;
+    color:#4D4D4D;
+    font-family: "Inter", sans-serif;
+font-weight: 400;
+font-size: 16px;
+
+    /* margin-top: 5px; */
+}
+
+.tests-footer-2 span{
+    margin-left: 239px;
+    font-family: "Inter", sans-serif;
+font-weight: 600;
+font-size: 18px;
+    /* margin-top: 5px; */
+}
+
+.btn-mofes{
+    outline: none;
+    box-shadow: none;
+      border: 1px solid  #00A859;
+    background:#fff;
+    color: #00A859;
+    padding: 11px 153px;
+    border-radius: 3px;
+    cursor: pointer;
+   margin-left: 100px;
+   margin-top: 20px;
+}
+
+
+.btn-mofes:hover {
+    background:#00A859;
+    color:  #fff;
+}
+
+.contents-body-3{
+    margin-left: 815px;
+    margin-top: -521px;
+}
+
+.conts-img-3{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.tests-head-3{
+    margin-top: 15px;
+}
+
+.tests-head-3 small{
+    margin-left: 100px;
+    font-family: "Inter", sans-serif;
+font-weight: 400;
+font-style: Regular;
+font-size: 13px;
+line-height: 24px;
+letter-spacing: 0%;
+color:#4D4D4D;
+}
+
+.tests-head-3 img{
+     margin-left: 255px;
+}
+
+.tests-body-3 p{
+    margin-left: 100px;
+    font-family: "MD Nichrome Test", sans-serif;
+font-weight: 700;
+font-size: 20px;
+margin-top: 4px;
+}
+
+.tests-footer-3{
+    margin-top: -15px;
+}
+
+.tests-footer-3 img{
+   margin-left: 100px;
+}
+
+.tests-footer-3 small{
+    margin-left: 5px;
+    color:#4D4D4D;
+    font-family: "Inter", sans-serif;
+font-weight: 400;
+font-size: 16px;
+
+    /* margin-top: 5px; */
+}
+
+.tests-footer-3 span{
+    margin-left: 222px;
+    font-family: "Inter", sans-serif;
+font-weight: 600;
+font-size: 18px;
+    /* margin-top: 5px; */
+}
+
+.features-left{
+    margin-top: 175px;
+    margin-left: 84px;
+}
+
+.btn-jam{
+    outline: none;
+    box-shadow: none;
+      border: 1px solid  #00A859;
+    background:#fff;
+    color: #00A859;
+    padding: 11px 153px;
+    border-radius: 3px;
+    cursor: pointer;
+   margin-left: 100px;
+   margin-top: 20px;
+}
+
+
+.btn-jam:hover {
+    background:#00A859;
+    color:  #fff;
+}
+
+.sliding img{
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+
+.ve{
+    /* background: image 40; */
+background: url(./assets/Base.png) no-repeat center center / cover;
+    width: 80%;
+    position: relative;
+    background-color: #459318;
+    margin-left: 150px;
+    height: 153px;
+    border-radius: 45px 45px 0px 0px;
+    margin-top: 45px;
+    padding-top: 143px;
+}
+
+
+.veg-1{
+    text-align: center ;
+}
+.veg-2{
+    text-align: center;
+}
+.veg-3{
+    text-align: center;
 }
