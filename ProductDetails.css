@@ -1,24 +1,28 @@
+/* .navy{ */
+    /* box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; */
+/* } */
+
 .header-img img{
     margin-top: 15px;
     margin-left: 100px;
 }
 
-nav{
+/* .navy nav{
     margin-top: 8px;
-}
+} */
 
-nav ul {
+.navy nav ul {
     display: flex;
     margin-left: 345px;
     margin-top: -50px;
 }
 
-nav ul li {
+.navy nav ul li {
     list-style: none;
     /* margin-right: 100px; */
 }
 
-nav ul li a {
+.navy nav ul li a {
     font-size: 12px;
     text-decoration: none;
     color: #000000;
@@ -28,28 +32,28 @@ nav ul li a {
 
 .nav-img-1 img{
     margin-left: 945px;
-    margin-top: -78px;
+    margin-top: -74px;
     width: 2%;
     height: 25px;
 }
 
 .nav-img-2 img{
      margin-left: 1013px;
-    margin-top: -126px;
+    margin-top: -120px;
     width: 2%;
     height: 25px;
 }
 
 .nav-img-3 img{
-   margin-left: 1044px;
-    margin-top: -174px;
-    width: 2%;
+    margin-left: 1044px;
+    margin-top: -170px;
     height: 25px;
+    width: 2%;
 }
 
 .btn{
-        margin-left: 1095px;
-    margin-top: -220px;
+        margin-left: 1149px;
+    margin-top: -227px;
 }
 
 .btn-sign{
@@ -68,4 +72,18 @@ nav ul li a {
 .btn-sign:hover {
     background:#fff;
     color:  #00A859;
+}
+
+.pd-left img{
+    margin-left: 100px;
+    margin-top: 27px;
+}
+
+.pd-right{
+    margin-top: -578px;
+    margin-left: 780px;
+}
+
+.pd-right small{
+  font-family: "Inter", sans-serif;
 }

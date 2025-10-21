@@ -24,6 +24,3 @@ function signUp(event){
         return;
           }
 } 
-
-    
-
