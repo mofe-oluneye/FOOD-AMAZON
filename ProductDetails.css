@@ -76,7 +76,7 @@
 
 .pd-left img{
     margin-left: 100px;
-    margin-top: 27px;
+    margin-top: 127px;
 }
 
 .pd-right{
@@ -86,4 +86,75 @@
 
 .pd-right small{
   font-family: "Inter", sans-serif;
+}
+
+.pd-right h2{
+ font-family: " MD Nichrome Test", sans-serif;   
+}
+
+.num p{
+    text-decoration: line-through;
+
+}
+.num p span{
+    color: #F86624;
+ margin-top: -30px;
+}
+
+.var p{
+  font-family: "Inter", sans-serif;
+
+}
+
+.var nav {
+    margin-top: -32px;
+    margin-left: 50px;
+ font-family: "Inter", sans-serif;
+
+}
+ 
+.p p{
+color: #4D4D4D;
+ font-family: "Inter", sans-serif;
+
+}
+
+.btn-htm{
+ outline: none;
+    box-shadow: none;
+      border: 1px solid  #00A859;
+    background: #00A859;
+    color: #ffffff;
+    padding: 13px 170px;
+    border-radius: 6px;
+    cursor: pointer;
+ font-family: "Inter", sans-serif;
+
+}
+
+.btn-htm:hover{
+ background:#fff;
+    color:  #00A859;
+}
+
+.check{
+    margin-top: 21px;
+}
+
+.btn-check{
+ outline: none;
+    box-shadow: none;
+      border: 1px solid  #F58634;
+    background: #F58634;
+    color: #ffffff;
+    padding: 13px 172px;
+    border-radius: 6px;
+    cursor: pointer;
+ font-family: "Inter", sans-serif;
+
+}
+
+.btn-check:hover{
+ background:#fff;
+    color:  #F58634;
 }
